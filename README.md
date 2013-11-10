@@ -1,9 +1,6 @@
 # Loggo
 Loggo provides dead simple logging for c++11 programs.
 
-It's not the fastest of most full-featured logger, but is among the easiest to use.
-
-
 ## Requirements
 Nothing other than a minimally compliant C++11 compiler and standard library.
 
